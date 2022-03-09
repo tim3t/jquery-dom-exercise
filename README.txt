@@ -1,0 +1,1 @@
+A short exercise practicing jQuery techniques from Springboard class;
